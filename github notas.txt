@@ -2,6 +2,8 @@ GITHUB:
 =====
 ACTUALIZADO 2020
 
+NOTA: No se borrará si es que no realizó una codificación posterior
+
 Ubicarnos en nuestra carpeta creada 
 (ejemplo:   cd \hckc)  ENTER:
 
