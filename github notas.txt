@@ -1,0 +1,40 @@
+GITHUB:
+=====
+
+Ubicarnos en nuestra carpeta creada 
+(ejemplo:   cd \hckc)  ENTER:
+
+1. Clonar mi archivo de la nube en mi carpeta creada en el disco C: (HCKC):
+
+2.  ejecutar el comnado git clone .....
+
+3. Para ver nuestros repositorios:
+   ejecutar DIR
+
+
+4. git status:   Ver el estado de tu repositorio:
+
+5. Asegurar los cambios:  git add
+  Adicionandole el punto al final... asegurar todos los cambios  :
+
+ejemplo: git add .
+
+6. viene el commit -m "comentario delo realizado"
+
+7. git status (Archivos en la pc)
+
+
+SUBIR A LA NUBE:
+
+8. Subir los cambios a la nube (PUSH)
+	ejemplo: git push origin master
+
+ACTUALIZAR:
+
+9. git pull origin master
+
+
+
+
+
+
