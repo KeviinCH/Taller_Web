@@ -1,5 +1,6 @@
 GITHUB:
 =====
+ACTUALIZADO 2020
 
 Ubicarnos en nuestra carpeta creada 
 (ejemplo:   cd \hckc)  ENTER:
@@ -27,7 +28,7 @@ ejemplo: git add .
 SUBIR A LA NUBE:
 
 8. Subir los cambios a la nube (PUSH)
-	ejemplo: git push origin master
+	ejemplo: git push origin main
 
 ACTUALIZAR:
 
